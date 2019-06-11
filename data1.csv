@@ -1,0 +1,9 @@
+floor level,program name,start.x,start.y,width(x),length(y)
+5,Private Office,200,100,10,15
+5,Private Office,210,100,10,15
+5,Private Office,220,100,10,15
+5,Private Office,230,100,10,15
+5,Bathroom,400,200,12,20
+5,Bathroom,400,180,12,20
+5,Open Office,0,0,100,100
+5,Open Office,100,0,200,100
